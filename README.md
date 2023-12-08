@@ -1,4 +1,3 @@
-"""
 Written By: Bishwas Bhatt
 Purpose: Downloads PDFs from a certain slack channel into a local repo, and flags it as downloaded in another channel
 
@@ -30,4 +29,3 @@ Getting started with SlackAPI Tutorial: https://www.youtube.com/watch?v=KJ5bFv-I
 Conversations.History method: https://api.slack.com/methods/conversations.history
 Slack API Tester: https://api.slack.com/methods/conversations.history/test
 Sample Code: https://api.slack.com/methods/conversations.history/code
-"""
